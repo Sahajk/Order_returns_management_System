@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ashfaqnisar/sample-config-server
+          uri: https://github.com/Sahajk/ordermanagementConfgServerFile
           default-label: main
 eureka:
   client:
