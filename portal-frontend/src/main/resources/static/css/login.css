@@ -1,8 +1,8 @@
 
 body {
-    background: #D31027;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom, #EA384D, #D31027);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #EA384D, #D31027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #787878;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #787878, #696969);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #787878, #696969); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     min-height: 100vh;
 }
@@ -79,7 +79,7 @@ body {
 
 .login-card .login-btn {
     padding: 13px 20px 12px;
-    background-color: red;
+    background-color: black;
     border-radius: 4px;
     font-size: 17px;
     font-weight: bold;

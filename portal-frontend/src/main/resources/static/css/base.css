@@ -1,7 +1,7 @@
 body {
-    background: #D31027; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to bottom, #EA384D, #D31027); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to bottom, #EA384D, #D31027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #787878; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #787878, #696969); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #787878, #696969); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
@@ -15,15 +15,11 @@ body {
 }
 
 span {
-    color: red;
+    color: 787878;
     font-size: 20px;
 }
 
 
-.animate-image {
-    -webkit-animation: mover 2s infinite alternate;
-    animation: mover 1s infinite alternate;
-}
 
 @-webkit-keyframes mover {
     0% {

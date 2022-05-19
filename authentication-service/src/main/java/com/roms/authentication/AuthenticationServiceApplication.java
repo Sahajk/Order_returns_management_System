@@ -29,9 +29,9 @@ public class AuthenticationServiceApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		userRepository.save(new User("batman", passwordEncoder.encode("bruce"), "ROLE_USER"));
-		userRepository.save(new User("superman", passwordEncoder.encode("clark"), "ROLE_USER"));
-		userRepository.save(new User("ironman", passwordEncoder.encode("stark"), "ROLE_USER"));
-		userRepository.save(new User("spiderman", passwordEncoder.encode("peter"), "ROLE_USER"));
+		userRepository.save(new User("sahaj", passwordEncoder.encode("khatri"), "ROLE_USER"));
+		userRepository.save(new User("deepansh", passwordEncoder.encode("garg"), "ROLE_USER"));
+		userRepository.save(new User("sakshi", passwordEncoder.encode("bhat"), "ROLE_USER"));
+		userRepository.save(new User("hulk", passwordEncoder.encode("beast"), "ROLE_USER"));
 	}
 }
