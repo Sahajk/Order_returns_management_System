@@ -96,6 +96,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>component-processing-service</finalName>
     </build>
 
 </project>

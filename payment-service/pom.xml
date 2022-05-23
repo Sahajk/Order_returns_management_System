@@ -93,5 +93,6 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>payment-service</finalName>
     </build>
 </project>

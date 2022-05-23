@@ -96,6 +96,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>gateway-service</finalName>
     </build>
 
 </project>
